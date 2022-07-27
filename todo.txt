@@ -1,0 +1,3 @@
+-> tìm hiểu cách gửi file về server next
+-> xử lý python trên server
+-> truyền thông tin xử lý ngược trở lại
